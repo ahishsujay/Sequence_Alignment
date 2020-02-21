@@ -23,8 +23,8 @@ Needleman-Wunsch is a popular algorithm used in Bioinformatics for sequence comp
 ./nwAlign.py seq1.fa seq2.fa
 
 seq1.fa contains:
-'>seq1.fa
-ATTGCC'
+>seq1.fa
+ATTGCC
 
 seq2.fa contains:
 >seq2.fa
