@@ -23,8 +23,8 @@ Needleman-Wunsch is a popular algorithm used in Bioinformatics for sequence comp
 ./nwAlign.py seq1.fa seq2.fa
 
 seq1.fa contains:
->seq1.fa
-ATTGCC
+'>seq1.fa
+ATTGCC'
 
 seq2.fa contains:
 >seq2.fa
@@ -39,7 +39,7 @@ Alignment score: 2
 where, "|" represents a match and "*" represents a mismatch
 
 # Smith-Waterman Algorithm:
-Another widely used algorithm in Bioinformatics for sequence comparison is the Smith-Waterman algorithm. It performs local sequence alignment which is used for indentifying regions of similarity within very long sequences that are usually divergent overall. 
+Another widely used algorithm in Bioinformatics for sequence comparison is the Smith-Waterman algorithm. It performs local sequence alignment which is used for indentifying regions of similarity within very long sequences that are usually divergent overall.
 ### Input:
 1. FASTA file 1
 2. FASTA file 2
