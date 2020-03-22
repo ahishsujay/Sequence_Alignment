@@ -1,0 +1,4 @@
+AAT-TCCTT
+||| ||*||
+AATCTCTTT
+Alignment score: 5

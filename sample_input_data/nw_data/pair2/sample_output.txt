@@ -1,0 +1,4 @@
+ATTGCC
+|*| ||
+AGT-CC
+Alignment score: 2
