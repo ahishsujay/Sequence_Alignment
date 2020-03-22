@@ -34,7 +34,7 @@ AGTCC
 ATTGCC<br/>
 |*| ||<br/>
 AGT-CC<br/>
-Alignment score: 2`
+Alignment score: 2
 
 where, "|" represents a match and "*" represents a mismatch
 
@@ -44,18 +44,18 @@ Another widely used algorithm in Bioinformatics for sequence comparison is the S
 1. FASTA file 1
 2. FASTA file 2
 
-##$ Syntax:
+## Syntax:
 /swAlign.py <input FASTA file 1> <input FASTA file 2>
 
 ### Example usage:
 `./nwAlign.py seq1.fa seq2.fa`
 
 seq1.fa contains:<br/>
->seq1.fa<br/>
+\>seq1.fa<br/>
 TGTTACGG
 
 seq2.fa contains:<br/>
->seq2.fa<br/>
+\>seq2.fa<br/>
 GGTTGACTA
 
 ### Output:
