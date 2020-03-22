@@ -48,7 +48,7 @@ Another widely used algorithm in Bioinformatics for sequence comparison is the S
 /swAlign.py <input FASTA file 1> <input FASTA file 2>
 
 ### Example usage:
-`./nwAlign.py seq1.fa seq2.fa`
+`./swAlign.py seq1.fa seq2.fa`
 
 seq1.fa contains:<br/>
 \>seq1.fa<br/>
