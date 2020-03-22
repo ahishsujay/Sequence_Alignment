@@ -22,18 +22,18 @@ Needleman-Wunsch is a popular algorithm used in Bioinformatics for sequence comp
 ### Example usage:
 `./nwAlign.py seq1.fa seq2.fa`
 
-seq1.fa contains:
-\>seq1.fa
+seq1.fa contains:<br/>
+\>seq1.fa<br/>
 ATTGCC
 
-seq2.fa contains:
-`>seq2.fa
-AGTCC`
+seq2.fa contains:<br/>
+\>seq2.fa<br/>
+AGTCC
 
 ### Output:
-`ATTGCC
+ATTGCC<br/>
 |*| ||
-AGT-CC
+AGT-CC<br/>
 Alignment score: 2`
 
 where, "|" represents a match and "*" represents a mismatch
@@ -50,16 +50,16 @@ Another widely used algorithm in Bioinformatics for sequence comparison is the S
 ### Example usage:
 `./nwAlign.py seq1.fa seq2.fa`
 
-seq1.fa contains:
-`>seq1.fa
-TGTTACGG`
+seq1.fa contains:<br/>
+>seq1.fa<br/>
+TGTTACGG
 
-seq2.fa contains:
-`>seq2.fa
-GGTTGACTA`
+seq2.fa contains:<br/>
+>seq2.fa<br/>
+GGTTGACTA
 
 ### Output:
-`GTT-AC
- ||| ||
- GTTGAC
- Alignment score: 1`
+GTT-AC<br/>
+||| ||
+GTTGAC<br/>
+Alignment score: 1
