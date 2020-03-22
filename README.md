@@ -32,7 +32,7 @@ AGTCC
 
 ### Output:
 ATTGCC<br/>
-|*| ||
+|*| ||<br/>
 AGT-CC<br/>
 Alignment score: 2`
 
@@ -60,6 +60,6 @@ GGTTGACTA
 
 ### Output:
 GTT-AC<br/>
-||| ||
+||| ||<br/>
 GTTGAC<br/>
 Alignment score: 1
