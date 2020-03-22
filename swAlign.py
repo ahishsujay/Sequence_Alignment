@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# Write your code here
 import sys
 
 seq1_fasta = sys.argv[1]                        #Storing the fasta file1 (inputted as argument) in seq1_fasta
